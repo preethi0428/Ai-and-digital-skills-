@@ -1,1 +1,1 @@
-# Ai-and-digital-skills-
+this is ai and digital skills repository 
